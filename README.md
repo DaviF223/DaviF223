@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Back-end`**
 
-Me chamo Davi Felipe de Macedo, tenho 19 anos e sou natural de Brasília. Concluí o ensino médio. Atualmente, estou cursando Engenharia de Software na Unicesumar. Sou um amante da area da Tecnologia e sempre busco aprender e me desenvolver mais dentro da área.
+Me chamo Davi Felipe de Macedo, tenho 20 anos e sou natural de Brasília. Concluí o ensino médio. Atualmente, estou cursando Engenharia de Software na Unicesumar. Sou um amante da area da Tecnologia e sempre busco aprender e me desenvolver mais dentro da área.
 
 <p align="left">
     <a href="https://github.com/DaviF223?tab=repositories&sort=stargazers">
